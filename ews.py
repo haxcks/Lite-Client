@@ -1,3 +1,7 @@
+'''
+MADE BY haxkcs DO NOT COPY
+'''
+
 import requests
 from bs4 import BeautifulSoup
 import urllib3
